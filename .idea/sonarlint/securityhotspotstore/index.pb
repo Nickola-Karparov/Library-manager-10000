@@ -48,3 +48,5 @@ w
 G.idea/sonarlint/issuestore/2/c/2cabb939da04d3de3a200bf2b575690e1a16316d,1\0\10f2119b18de4c2d93011c2acd27301df22c2983
 Å
 Q.idea/sonarlint/securityhotspotstore/8/3/83f9ce5fcaf914180c112cad5babb4fb1f1cd7c2,0\e\0e3bb245d1390ad099bf0e6a2a1e236168f8fa14
+T
+$src/main/functional_programming.java,7\6\76c6b10e7fa2442d576e7b68ebbbcf3e219fa583

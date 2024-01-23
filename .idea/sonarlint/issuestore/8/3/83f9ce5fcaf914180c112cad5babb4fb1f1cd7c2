@@ -1,0 +1,7 @@
+
+0
+java:S1220""Move this file to a named package.
+h	java:S116"SRename this field "Language" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îÄîÜ
+j	java:S116"PRename this field "Topic" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×äª©ùÿÿÿÿ
+E
+java:S1172"/Remove this unused method parameter "language".(‰Îµó

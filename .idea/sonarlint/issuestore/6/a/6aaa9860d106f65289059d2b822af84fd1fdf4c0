@@ -1,0 +1,20 @@
+
+x
+java:S1192"\Define a constant instead of duplicating this literal "---------------------------" 3 times.(ÁÓ¡Øıÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+Z
+java:S1226"DIntroduce a new variable instead of reusing the parameter "library".(šöú•
+Q
+java:S1854!";Remove this useless assignment to local variable "helper2".(°Ô”â
+E	java:S106"+Replace this use of System.out by a logger.(¶Û¼Íøÿÿÿÿ
+B
+java:S1481!",Remove this unused "helper2" local variable.(°Ô”â
+E	java:S106'"+Replace this use of System.out by a logger.(¶Û¼Íøÿÿÿÿ
+E	java:S106-"+Replace this use of System.out by a logger.(¶Û¼Íøÿÿÿÿ
+T
+java:S1854…"=Remove this useless assignment to local variable "bookArray".(³Âæ
+E
+java:S1481…".Remove this unused "bookArray" local variable.(³Âæ
+n
+java:S3776ˆ"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(¬È Øùÿÿÿÿ
